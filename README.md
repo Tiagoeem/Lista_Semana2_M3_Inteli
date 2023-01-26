@@ -1,4 +1,4 @@
-# Lista de Exercícios - Semana 1
+# Lista de Exercícios - Semana 2
 
 Este exercicio será realizado via Github Classroom, toda vez que você comitar e submeter atarefa via "git push" a tarefa será corrigida automaticamente e você receberá o feedback automaticamente. Nesta primeira lista o número de submissões é livre, então aproveitei para fazer os exercícios com calma e refaça quantas vezes forem necessárias. Existe um arquivo para cada um dos exercicios, **é muito importante que a função tenha exatamente o nome como descrito em seu respectivo enunciado, bem como o número correto de parâmetros**.
 
@@ -31,5 +31,7 @@ Duas palavras são anagramas se você puder soletrar uma rearranjando as letras 
 Exemplo de anagramas:
 
 Amor e Roma
+
 Pedra e Padre
+
 Perda e Pedra
